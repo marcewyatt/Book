@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Just a Generic Page</title>
+<body>
+<script>
+var scoops = 5;
+while (scoops > 0) {
+document.write("Another scoop!<br>");
+scoops = scoops - 1;
+}
+document.write("Life without ice cream isn't the same");
+</script>
+</body>
+</html>
